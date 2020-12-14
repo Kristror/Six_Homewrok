@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\Students\bin\Debug\Students.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\Students\bin\Debug\Students.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\Students\bin\Debug\Students.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\Students\obj\Debug\Students.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\Students\obj\Debug\Students.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\Students\obj\Debug\Students.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\Students\obj\Debug\Students.csprojAssemblyReference.cache

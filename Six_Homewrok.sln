@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinFunc", "MinFunc\MinFunc.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutFunc", "OutFunc\OutFunc.csproj", "{EDACD3BD-7781-4403-954E-94D8E7BEAE8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "Students\Students.csproj", "{9B97B39E-7DAE-4E57-8CAF-7C48BAAB7C2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EDACD3BD-7781-4403-954E-94D8E7BEAE8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDACD3BD-7781-4403-954E-94D8E7BEAE8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDACD3BD-7781-4403-954E-94D8E7BEAE8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B97B39E-7DAE-4E57-8CAF-7C48BAAB7C2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B97B39E-7DAE-4E57-8CAF-7C48BAAB7C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B97B39E-7DAE-4E57-8CAF-7C48BAAB7C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B97B39E-7DAE-4E57-8CAF-7C48BAAB7C2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
