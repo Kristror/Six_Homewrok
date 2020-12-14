@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\OutFunc\bin\Debug\OutFunc.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\OutFunc\bin\Debug\OutFunc.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\OutFunc\bin\Debug\OutFunc.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\OutFunc\obj\Debug\OutFunc.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\OutFunc\obj\Debug\OutFunc.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\OutFunc\obj\Debug\OutFunc.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\OutFunc\obj\Debug\OutFunc.pdb

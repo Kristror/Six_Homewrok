@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AD54E0DD-971E-45AD-8C2A-EF0CCD400F15}</ProjectGuid>
+    <ProjectGuid>{EDACD3BD-7781-4403-954E-94D8E7BEAE8F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MinFunc</RootNamespace>
-    <AssemblyName>MinFunc</AssemblyName>
+    <RootNamespace>OutFunc</RootNamespace>
+    <AssemblyName>OutFunc</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MinFunc.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
