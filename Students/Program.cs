@@ -39,6 +39,10 @@ namespace Students
             st.SortAge(ref list, false);
             st.Print(list);
 
+            Console.WriteLine("Все студенты по курсу и возрасту студента:");
+            list = st.SortCourseAge(list);
+            st.Print(list);
+
             int count = st.Count(list, x => x.group == "ФАМ");
             Console.WriteLine($"Всего студентов на факультете ФАМ: {count}");
 

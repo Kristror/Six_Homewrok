@@ -7,10 +7,10 @@ namespace OutFunc
         class Output
         {
             public delegate double Func(double x, double a);
-            public void Table(Func F, double x, double b, double a)
+            public void Table(Func F, double x, double x2, double a)
             {
                 Console.WriteLine("----- X ----- Y -----");
-                while (x <= b)
+                while (x <= x2)
                 {
                     Console.WriteLine("| {0,8:0.000} | {1,8:0.000} |", x, F(x,a));
                     x += 1;

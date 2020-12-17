@@ -13,7 +13,6 @@ namespace Students
             public string group;
             public int course;
             int age;
-
             public Student()
             {
 
@@ -83,6 +82,38 @@ namespace Students
                         }
                     }
                 }
+            }
+            public List<Student> SortCourseAge(List<Student> stud)
+            {
+                List<Student> result = new List<Student>();
+                for (int i = 0; i < stud.Count - 1; i++)
+                {
+                    for (int j = i + 1; j < stud.Count; j++)
+                    {
+                        if (stud[i].course < stud[j].course)
+                        {
+                            var temp = stud[i];
+                            stud[i] = stud[j];
+                            stud[j] = temp;
+                        }
+                    }
+                }
+                List<Student> tempo = new List<Student>();
+                for (int i = 1; i < stud.Count - 1; i++)
+                {
+                    if(stud[i-1].course == stud[i].course)
+                    {
+                        tempo.Add(stud[i]);
+                    } else
+                    {
+                        Student st = new Student();
+                        st.SortAge(ref tempo, false);
+                        result.AddRange(tempo);
+                        tempo.Clear();
+                        tempo.Add(stud[i]);
+                    }
+                }
+                return result;
             }
             public Dictionary<int, int> Contunt18_20 (List<Student> studs)
             {
