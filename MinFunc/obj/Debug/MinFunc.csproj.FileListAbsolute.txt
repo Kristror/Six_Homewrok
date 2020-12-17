@@ -1,0 +1,7 @@
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\MinFunc\bin\Debug\MinFunc.exe.config
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\MinFunc\bin\Debug\MinFunc.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\MinFunc\bin\Debug\MinFunc.pdb
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\MinFunc\obj\Debug\MinFunc.csprojAssemblyReference.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\MinFunc\obj\Debug\MinFunc.csproj.CoreCompileInputs.cache
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\MinFunc\obj\Debug\MinFunc.exe
+D:\Загрузки\Учеба\Geek\Основы C#\Six_Homewrok\MinFunc\obj\Debug\MinFunc.pdb
